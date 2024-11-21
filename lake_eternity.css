@@ -107,6 +107,9 @@ article h1 {
 }
 .group p {
     text-indent: 2em;
+    font-size: 1.2em;
+    padding-left: 1.2em;
+    padding-right: 1.2em;
 }
 .group img {
     border-radius: 0.2em;
@@ -126,7 +129,8 @@ article h1 {
     transform: rotate(5deg);
 }
 .group li {
-    margin-left: 2em;
+    margin-left: 4em;
+    padding-bottom: 1%;
 }
 
 /* comment section */
